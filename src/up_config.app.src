@@ -7,7 +7,7 @@
       [kernel,
         stdlib
         , syntax_tools
-        , goldrush
+%%        , goldrush
         , lager
       ]},
     {included_applications, [
